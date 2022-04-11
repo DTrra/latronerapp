@@ -1,3 +1,17 @@
+# PizzeriAPP La Tronera 
+## `Proyecto de e-commerce diseñado y desarrollado para el Proyecto Final de REACT JS de la carrera de Fullstack Developer en CoderHouse`
+
+Construído con:
+Bootstrap 5
+CSS Grid Layout
+CSS Flexible Box Layout
+Imágenes alojadas la nube
+HTML5
+CSS3
+React
+Sweetalter2
+Firestore
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,52 @@
+.container-buton {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    border-radius: 7px;
+    padding: 7px;
+
+}
+
+.container-add-substract {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    font-size: 27px;
+}
+
+.container-add-substract button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 27px;
+    text-decoration: none;
+}
+
+.container-add-substract button:hover {
+    background-color: rgba(206, 206, 206, 0.555);
+}
+
+.add {
+    background-color: #E25A68;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 15px;
+    font-size: 17px;
+
+}
+
+.disabled {
+    background-color: rgba(206, 206, 206, 0.555);
+    color: black;
+    border: none;
+    border-radius: 7px;
+    padding: 15px;
+    font-size: 17px;
+    opacity: 0.3;
+    cursor: not-allowed;
+}
+
